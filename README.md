@@ -2,7 +2,8 @@
 O repositório Mapa de Habilidades DIO organiza e facilita o desenvolvimento de habilidades essenciais para o crescimento pessoal e profissional.
 
 #Etapa 1: Inventário de Habilidades
-Habilidades Técnicas:
+
+1.Habilidades Técnicas:
 
 Análise de Dados
 
@@ -16,7 +17,7 @@ Criação de Conteúdo
 
 Organização de Dados
 
-Habilidades Interpessoais:
+2.Habilidades Interpessoais:
 
 Comunicação
 
@@ -30,7 +31,7 @@ Liderança
 
 Negociação
 
-Habilidades Pessoais:
+3.Habilidades Pessoais:
 
 Empatia
 
