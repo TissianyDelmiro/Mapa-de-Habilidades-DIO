@@ -2,9 +2,13 @@
 Este repositório contém o Mapa de Habilidades DIO focado em Análise de Dados. O projeto foi desenvolvido para mapear, organizar e planejar o desenvolvimento de habilidades essenciais na área de dados. O Mapa é dividido em três etapas:
 
 1.Inventário de Habilidades: Lista as competências essenciais relacionadas à análise de dados, como manipulação de dados, visualização e modelagem preditiva.
+
 2.Cruzamento com Necessidades do Mercado: Analisa as demandas do mercado e as oportunidades para aplicar essas habilidades.
+
 3.Caminhos de Monetização: Explora formas de monetizar as habilidades adquiridas, como oferecer serviços, criar conteúdo ou trabalhar com consultoria.
+
 Este repositório serve como um guia prático para quem deseja se aprofundar na área de análise de dados e utilizar as competências para crescer profissionalmente.
+
 
 #Etapa 1: Inventário de Habilidades
 
